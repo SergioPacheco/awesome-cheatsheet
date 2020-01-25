@@ -213,6 +213,18 @@ Forked repositories can easily be identified by the reference to the original pr
 
 <img src="images/forked-repo.png" alt="Forked repository" width="480" />
 
+### Saving github credentials
+
+Saving for just  5 minutes: 
+```nohighlight
+$ git config credential.helper cache
+```
+
+Saving credentials definitely:
+```nohighlight
+$ git config credential.helper store
+```
+
 ## Helpful Git Resources
 
 [Pro Git Book](https://git-scm.com/book/en/v2) - A reference book covering Git in depth.
