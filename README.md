@@ -2,8 +2,9 @@
 
 A collection of cheatsheets 
 
-- [DDD - Domain Driven Desing](DDD/domain-driven-design.pdf)
 - [Spring Boot Persistence](spring-boot-persistence/README.md)
+- [Docker](docker/README.md)
+- [ES6 features](es6features/README.md)
 - [Thymeleaf Templates](thymeleaf/README.md)
 - [Python 2 vs. 3](python2vs3/README.md)
 - [Git Basics](git-basics/README.md)
