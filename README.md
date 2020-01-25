@@ -1,6 +1,6 @@
 # Cheatsheets
 
-A collection of cheatsheets used in LaunchCode Education programs
+A collection of cheatsheets 
 
 - [Spring Persistence](spring-persistence/README.md)
 - [Thymeleaf Templates](thymeleaf/README.md)
