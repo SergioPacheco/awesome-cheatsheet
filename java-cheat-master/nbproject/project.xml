@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>CheatSheet</name>
+            <source-roots>
+                <root id="src.dir"/>
+                <root id="binary-compatibility.dir"/>
+                <root id="class-not-found.dir"/>
+                <root id="gcj.dir"/>
+                <root id="instrument.dir"/>
+                <root id="interactive.dir"/>
+                <root id="jasmin.dir"/>
+                <root id="java8.dir"/>
+                <root id="javac.dir"/>
+                <root id="javadoc.dir"/>
+                <root id="java.dir"/>
+                <root id="jmx.dir"/>
+                <root id="jni.dir"/>
+                <root id="junit.dir"/>
+                <root id="java2.dir"/>
+                <root id="mockito.dir"/>
+                <root id="mondrian.dir"/>
+                <root id="servlet.dir"/>
+                <root id="spring.dir"/>
+                <root id="thread.dir"/>
+                <root id="unsafe.dir"/>
+                <root id="watch-service.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+    </configuration>
+</project>

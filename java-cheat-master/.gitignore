@@ -1,0 +1,13 @@
+*.class
+*.log
+*.jar
+
+# Maven
+target/
+
+# Eclipse
+.project/
+.settings/
+
+# Vim
+.vimrc
